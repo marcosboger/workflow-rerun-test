@@ -9,4 +9,4 @@ jobs:
     
     steps:
     - name: Hello World
-      run: echo "Hello World from Commit A"
+      run: echo "Hello World from Commit B"
